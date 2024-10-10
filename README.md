@@ -1,2 +1,1 @@
-# LumuTest
-Este repositorio contiene mi prueba tecnica para presentar a Lumu 
+El proyecto se puede ejecutar dando click a alguno de los dos runners, en uno de ellos validamos textos generados aleatoriamente uno sin repetición donde validamos el numero de caracteres y palabras y otro con repetición en el que validamos las 3 palabras que más se repiten, dado el caso de que fallé por chromedriver podrás actualizarlo en este link https://googlechromelabs.github.io/chrome-for-testing/
